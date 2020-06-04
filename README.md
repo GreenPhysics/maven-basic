@@ -1,4 +1,4 @@
-[![Quality Gate Status](http://54.69.165.75:9000/api/project_badges/measure?project=GreenPhysics%3Agithub-jenkins-sonar-jira&metric=alert_status)](http://54.69.165.75:9000/dashboard?id=GreenPhysics%3Agithub-jenkins-sonar-jira)
+[![Quality Gate Status](http://54.69.165.75:9000/api/project_badges/measure?project=GPC:github%3Amaven-basic&metric=alert_status)](http://54.69.165.75:9000/dashboard?id=GPC:github%3maven-basic)
 # maven-basic
 Sample llustratation of a basic maven test in viewed through SonarQube, Jenkins, GitHub, Jira
 This simple Maven project is importing JaCoCo's coverage report. For multi-module project example
