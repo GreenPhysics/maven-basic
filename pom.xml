@@ -82,7 +82,8 @@
       </build>
     </profile>
   </profiles>
-   <build>
+
+  <!--   <build>
     <finalName>Example-of-basic-Maven-project</finalName>
     <plugins>
       <plugin>
@@ -107,6 +108,6 @@
         </executions>
       </plugin>
     </plugins>
-  </build>
+  </build> -->
 
 </project>
