@@ -9,7 +9,7 @@ agent {label 'jenkins_slave'}
                        
              post {
                   always {
-                  jiraSendBuildInfo site: 'greenphysics.atlassian.net', branch: 'AD-13-update-readme-pom-xml-sonar-scanner-properties-to-connect-to-sonarqube'
+                  jiraSendBuildInfo site: 'greenphysics.atlassian.net', branch: 'master'
                 }
              }   
          }
